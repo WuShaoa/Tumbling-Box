@@ -1,4 +1,4 @@
-\.mono
-\.import
-*.exe
-*.pck
+# \.mono
+# \.import
+# *.exe
+# *.pck
